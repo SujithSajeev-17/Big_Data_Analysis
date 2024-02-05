@@ -1,0 +1,5 @@
+Queries:
+
+select * from City;
+select * from Theatre;
+select * from Shows;
