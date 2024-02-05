@@ -1,5 +1,8 @@
 Queries:
 
+Question A:
+
 select * from City;
 select * from Theatre;
 select * from Shows;
+
