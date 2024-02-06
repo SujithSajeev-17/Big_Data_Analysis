@@ -1,0 +1,27 @@
+The Phantom of the Opera,Sarah Brightman,Broadway Theatre,7000
+Concert in th Park,John Legend,Hollywood Bowl,15000
+Bollywood Night,A.R Rahman,Nehru Auditorium,2500
+Tokyo Concert,Mr. X,Tokyo Dome,60000
+Japanese Night,Mr. X,Osaka Theater,1500
+Kyoto Concert,Mr. X,Kyoto Hall,700
+Nagoya Live,Mr. X,Nagoya Venue,1800
+Fukuoka Spectacular,Mr. X,Fukuoka Stadium,28000
+Sapporo Showdown,Mr. X,Sapporo Dome,35000
+Ballet Performance,Mr. X,New National Theatre Tokyo,2000
+Tokyo Symphony Orchestra,Mr. X,Tokyo Metropolitan Theatre,1800
+Japanese Dance Extravaganza,Mr. X,Kabukiza Theatre,1500
+Bollywood Extravaganza,Amitabh Bachchan,Chennai Music Hall,2000
+Karnataka Folk Festival,Lata Mangeshkar,Bangalore Amphitheatre,3000
+Tagore Tribute,A.R. Rahman,Kolkata Opera House,2500
+Kokura Gekijo Drama,Natsumi Sasaki,Kokura Gekijo Theatre,1800
+Hiroshima Ballet Performance,Hiroshi Nakamura,Hiroshima Theatre,1600
+Aichi Theater Play,Mai Kawamura,Misonoza Theatre,1300
+Suntory Hall Chamber Music,Yusuke Ito,Suntory Hall,2100
+Orchard Hall Jazz Concert,Ayumi Nishikawa,Bunkamura Orchard Hall,1700
+Sapporo Symphony Orchestra,Kazuki Suzuki,Sapporo Education and Culture Hall,2500
+Nagano Cultural Showcase,Hana Yamada,Kanamaruza Theatre,1100
+Fukuoka Theater Festival,Takeshi Mori,Hakataza Theatre,1900
+Osaka Opera Night,Emi Suzuki,Osaka Shochikuza Theatre,1400
+Traditional Kabuki Show,Akihiro Tanaka,Minami-za,1600
+Classical Music Night,Yuki Nakamura,Imperial Garden Theatre,2200
+Noh Theater Performance,Haruki Sato,National Noh Theatre,1200

@@ -1,0 +1,31 @@
+﻿Broadway Theatre,New York,New York,1500
+Hollywood Bowl,Los Angeles,California,17000
+Nehru Auditorium,Delhi,Delhi,2000
+Tokyo Dome,Tokyo,Tokyo,55000
+Osaka Theater,Osaka,Osaka,1200
+Kyoto Hall,Kyoto,Kyoto,800
+Nagoya Venue,Nagoya,Aichi,2000
+Fukuoka Stadium,Fukuoka,Tokyo,30000
+Sapporo Dome,Sapporo,Tokyo,40000
+Tokyo Arena,Tokyo,Tokyo,7500
+Kabukiza Theatre,Tokyo,Tokyo,1966
+National Noh Theatre,Tokyo,Tokyo,591
+New National Theatre Tokyo,Tokyo,Tokyo,65000
+Tokyo Metropolitan Theatre,Tokyo,Tokyo,2799
+Imperial Garden Theatre,Tokyo,Tokyo,5454
+Minami-za,Kyoto,Kyoto,1086
+Osaka Shochikuza Theatre,Osaka,Osaka,1501
+Hakataza Theatre,Fukuoka,Fukuoka,1489
+Kanamaruza Theatre,Nagano,Nagano,548
+Sapporo Education and Culture Hall,Sapporo,Hokkaido,2013
+Bunkamura Orchard Hall,Tokyo,Tokyo,2150
+Suntory Hall,Tokyo,Tokyo,20060
+Misonoza Theatre,Nagoya,Aichi,1824
+Hiroshima Theatre,Hiroshima,Hiroshima,1387
+Kokura Gekijo Theatre,Kitakyushu,Fukuoka,6500
+Albany Auditorium,Albany,New York,1500
+Buffalo Concert Hall,Buffalo,New York,2000
+Rochester Theater,Rochester,New York,1800
+Chennai Music Hall,Chennai,Tamil Nadu,2500
+Bangalore Amphitheater,Bangalore,Karnataka,3500
+Kolkata Opera House,Kolkata,West Bengal,2840

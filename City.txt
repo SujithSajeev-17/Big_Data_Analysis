@@ -1,0 +1,20 @@
+New York, New York, USA
+Los Angeles, California, USA
+Mumbai, Maharashtra, India
+Delhi, Delhi, India
+Tokyo,Tokyo, Japan
+Osaka,Osaka,Japan
+Nagano,Nagano,Japan
+Kyoto,Kyoto,Japan
+Nagoya,Aichi,Japan
+Fukuoka,Tokyo,Japan
+Sapporo,Tokyo,Japan
+Sapporo,Hokkaido,Japan
+Hiroshima,Hiroshima,Japan
+Kitakyushu,Fukuoka,Japan
+lbany,New York,USA
+Buffalo,New York,USA
+Rohester,New York,USA
+Chennai,Tamil Nadu,India
+Bangalore,Karnataka,India
+Kolkata,West Bengal,India
