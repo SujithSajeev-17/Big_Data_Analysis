@@ -1,0 +1,16 @@
+101,2004-05-10,Intersection A
+102,2004-07-15,Intersection B
+103,2022-02-20,Highway C
+104,2004-08-30,Intersection D
+105,2004-10-05,Intersection E
+106,2004-12-15,Highway F
+107,2022-03-10,Intersection G
+108,2022-05-20,Highway H
+109,2022-07-25,Intersection I
+110,2021-03-15,Mumbai
+111,2021-05-20,Bangalore
+112,2021-07-10,Kolkata
+113,2022-01-25,Chennai
+114,2022-04-05,Delhi
+115,2022-06-10,Mumbai
+116,2022-08-15,Delhi
