@@ -1,8 +1,70 @@
-Queries:
+#Queries:
 
-Question A:
+#Question A:
 
 select * from City;
 select * from Theatre;
 select * from Shows;
+
+#i 
+select s.artist,t.city from shows s inner join theatre t on s.hall=t.name where s.attendance>=5000;
+
+#ii
+select t.state from theatre t inner join shows s on t.name=s.hall inner join city c on t.city=c.name where s.artist='Mr.X' and c.country = 'Japan';
+
+#iii
+select distinct s.artist from shows s inner join theatre t on s.hall = t.name where not t.state = 'Delhi';
+
+#iv
+select name from theatre where state = 'Tokyo' and capacity > 5000;
+
+
+#Question B
+
+select * from person;
+select * from car;
+select * from accident;
+select * from owns;
+select * from participation
+
+#i
+select count(o.driver_id) from person p inner join owns o on p.driver_id=o.driver_id inner join car c on o.license= c.license inner join participation pa on o.driver_id = pa.driver_id inner join accident a on pa.report_number = a.report_number where year(a.date_of_incident)=2004;
+
+
+#ii.
+
+select count(a.report_number) from PERSON p inner join OWNS o on pa.driver_id=o.driver_id inner join CAR c on o.license=c.license inner join PARTIFCIPATION pa on o.driver_id inner join ACCIDENT a on pa.report_number = a.report_number where p.name= "Vincent";
+
+#iii(iv)
+
+select p.driver_id,p.name,p.address,o.license,c.model,c.year,a.report_number,pa.damage_amount from person p inner join owns o on p.driver_id = o.driver_id inner join car c on o.license = c.license inner join participation pa on o.driver_id = pa.driver_id inner join accident a on pa.repot_number = a.report_number where year(a.date_of_incident)= year(curremt_date())-1 order by pa.damage_amount desc limit 5;
+
+
+#Question C
+
+select * from customer;
+select * from truck;
+select * from packet;
+
+
+#i.
+
+select destination from packet group by destination having count(*)>10;
+
+#ii.
+
+select c.c_name from customer c inner join packet p on c.c_no = p.c_no where =.weight>1 and p.destination = 'Singapore';
+
+#iii.
+
+select c.c_name from customer c inner join packet p on c.c_no = p.c_no inner join truck t on p.t_no = t.t_no where t.driver_name = 'Mark';
+
+#iv. 
+
+select c.c_name,SUM(p.weight) as tot_weight from customer c inner join packet p on c.c_no = p.c_no group by c.c_name order by tot_weight desc limit 3;
+
+#v. 
+
+select distinct c.c_name from customer c inner join packet p on c.c_no = p.c_no wher p.weight<1;
+
 
