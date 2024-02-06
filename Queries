@@ -2,6 +2,12 @@
 
 #Question A:
 
+# table schema
+
+CITY (Name, State, Country)
+THEATRE (Name, City, State, Capacity)
+SHOW (Title, Artist, Hall, Attendance)
+
 select * from City;
 select * from Theatre;
 select * from Shows;
@@ -20,6 +26,14 @@ select name from theatre where state = 'Tokyo' and capacity > 5000;
 
 
 #Question B
+
+#table schema
+
+PERSON (driver-id, name, address)
+CAR (license, model, year)
+ACCIDENT (report-number, date, location)
+OWNS (driver-id, license)
+PARTICIPATION (driver-id, report-number, damage-amount)
 
 select * from person;
 select * from car;
@@ -41,6 +55,12 @@ select p.driver_id,p.name,p.address,o.license,c.model,c.year,a.report_number,pa.
 
 
 #Question C
+
+#table schema
+
+CUSTOMER(c_no, c_name, c_address)
+TRUCK(t_no, driver_name)
+PACKET(p_no, c_no, t_no, date_of_booking, weight, destination)
 
 select * from customer;
 select * from truck;
